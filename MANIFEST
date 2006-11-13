@@ -1,0 +1,19 @@
+Changes
+MANIFEST
+META.yml # Will be created by "make dist"
+Makefile.PL
+README
+lib/Games/Bettor.pm
+lib/Games/Bettor/Martingale.pm
+lib/Games/Bettor/Kelly.pm
+lib/Games/Bettor/Consistent.pm
+lib/Games/Bettor/Reckless.pm
+t/Bettor.t
+t/Bettor-Consistent.t
+t/Bettor-Kelly.t
+t/Bettor-Martingale.t
+t/Bettor-Reckless.t
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t
+scripts/example.pl
